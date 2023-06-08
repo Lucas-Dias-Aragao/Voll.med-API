@@ -13,6 +13,8 @@ e pacientes.</p>
 * JPA/Hibernate
 * MySQL/Flyway
 * Lombok
+* Boas práticas com retornos da API
+  * Utilizando a classe ResponseEntity
 
 #### Em andamento:
 
