@@ -15,8 +15,9 @@ e pacientes.</p>
 * Lombok
 * Boas práticas com retornos da API
   * Utilizando a classe ResponseEntity
+  * Tratamento de erros
 
 #### Em andamento:
-
-* Tratamento de erros
 * Autorização/autenticação com JWT
+
+
