@@ -16,8 +16,10 @@ e pacientes.</p>
 * Boas práticas com retornos da API
   * Utilizando a classe ResponseEntity
   * Tratamento de erros
-
+* Algoritmo de Hashing (BCrypt)
+* 
 #### Em andamento:
 * Autorização/autenticação com JWT
+
 
 
