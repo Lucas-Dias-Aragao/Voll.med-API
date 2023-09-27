@@ -17,8 +17,6 @@ e pacientes.</p>
   * Utilizando a classe ResponseEntity
   * Tratamento de erros
 * Algoritmo de Hashing (BCrypt)
-* 
-#### Em andamento:
 * Autorização/autenticação com JWT
 
 

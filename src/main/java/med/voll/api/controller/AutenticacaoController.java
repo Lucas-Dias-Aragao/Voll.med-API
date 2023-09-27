@@ -23,6 +23,7 @@ public class AutenticacaoController {
 
     @Autowired
     private TokenService tokenService;
+
     @PostMapping
     public ResponseEntity efetuarLogin(@RequestBody @Valid DadosAutenticacao dados) {
         try {
@@ -33,8 +34,10 @@ public class AutenticacaoController {
 
             return ResponseEntity.ok(new DadosTokenJWT(tokenJWT));
         } catch (Exception e) {
+            System.out.println("Erro ao efeturar login");
             e.printStackTrace();
-            return ResponseEntity.badRequest().body(e.getMessage());
         }
+        return null;
     }
+
 }
