@@ -18,6 +18,8 @@ e pacientes.</p>
   * Tratamento de erros
 * Algoritmo de Hashing (BCrypt)
 * Autorização/autenticação com JWT
+* Princípios Solid
+* Documentar com SpringDoc
 
 
 
