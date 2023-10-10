@@ -20,6 +20,7 @@ e pacientes.</p>
 * Autorização/autenticação com JWT
 * Princípios Solid
 * Documentar com SpringDoc
+* Testes automatizados com Spring Boot
 
 
 
